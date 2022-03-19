@@ -1,0 +1,17 @@
+{
+    "name": "galib/hola-comp",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rabib Galib",
+            "email": "galib.rabib@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"galib\\helloComp\\": "src/"}
+    },
+    "require": {}
+}
